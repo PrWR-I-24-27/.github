@@ -19,13 +19,22 @@ fusionierten Daten visualisiert.
 
 * Arbeiten Sie in Dreiergruppen.
 * Arbeiten Sie in feature branches.
-* Verwenden Sie Pull Requests, um Ihre Änderungen in den main branch zu
+* Verwenden Sie Pull Requests, um Ihre Änderungen in den dev branch zu
   integrieren. 
 * Verwenden Sie branch protection rules, um sicherzustellen, dass nur
   überprüfte Änderungen in den main branch gelangen.
-* Abgabetermin: [Datum einfügen]
-* Bewertungskriterien: [Kriterien einfügen]
-* Ressourcen: [Ressourcen einfügen]
+* Abgabetermin: 26. September 2025 (per Pull Request vom dev nach main)
+* Bewertungskriterien: 
+  * Qualität der verwendeten Daten
+  * Eignung der Visualisierungen für die gewählten Daten
+  * Nachvollziehbarkeit der Analyse (Code und Text)
+* Ressourcen:
+  * [Bundesamt für Statistik](https://www.bfs.admin.ch)
+  * [Statistik Kanton Zürich](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html)
+  * [Open Data Portal](https://opendata.swiss)
+  * [Dataviz Project](https://datavizproject.com)
+  * [pandas Documentation](https://pandas.pydata.org/docs/)
+  * [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 ## Erreichbarkeit
 
