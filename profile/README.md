@@ -18,13 +18,19 @@ fusionierten Daten visualisiert.
 ## Besondere Anordnungen
 
 * Arbeiten Sie in Dreiergruppen.
-* Arbeiten Sie in feature branches.
+* Erstellen Sie ein Repository für Ihr Team.
+* Arbeiten Sie in feature branches bzw. in einem dev branch.
 * Verwenden Sie Pull Requests, um Ihre Änderungen in den dev branch zu
   integrieren. 
 * Verwenden Sie branch protection rules, um sicherzustellen, dass nur
   überprüfte Änderungen in den main branch gelangen.
+* Die Projektskizze ist im README des Teamrepository zu verfassen.
+* Die Projektskizze soll Auskunft über die Teamzusammensetzung, die
+  geplante Analyse und die verwendeten Datenquellen geben.
+* Abgabetermin Projektskizze: 29. August 2025
 * Abgabetermin: 26. September 2025 (per Pull Request vom dev nach main)
 * Bewertungskriterien: 
+  * Klarheit der Projektskizze
   * Qualität der verwendeten Daten
   * Eignung der Visualisierungen für die gewählten Daten
   * Nachvollziehbarkeit der Analyse (Code und Text)
