@@ -30,6 +30,7 @@ fusionierten Daten visualisiert.
 * Abgabetermin Projektskizze: 29. August 2025
 * Abgabetermin: 26. September 2025 (per Pull Request vom dev nach main)
 * Bewertungskriterien: 
+  * Der durch Commits dokumentierte Prozess
   * Klarheit der Projektskizze
   * Qualität der verwendeten Daten
   * Eignung der Visualisierungen für die gewählten Daten
