@@ -27,7 +27,7 @@ fusionierten Daten visualisiert.
 * Die Projektskizze ist im README des Teamrepository zu verfassen.
 * Die Projektskizze soll Auskunft über die Teamzusammensetzung, die
   geplante Analyse und die verwendeten Datenquellen geben.
-* Abgabetermin Projektskizze: 29. August 2025
+* Abgabetermin Projektskizze: 1. September 2025, 1200
 * Abgabetermin: 26. September 2025 (per Pull Request vom dev nach main)
 * Bewertungskriterien: 
   * Der durch Commits dokumentierte Prozess
