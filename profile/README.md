@@ -35,6 +35,10 @@ fusionierten Daten visualisiert.
   * Qualität der verwendeten Daten
   * Eignung der Visualisierungen für die gewählten Daten
   * Nachvollziehbarkeit der Analyse (Code und Text)
+  * Umsetzung der Best Practices für 
+    <a href="https://www.w3schools.com/git/git_best_practices.asp?remote=github" target="_blank">git</a> und
+    <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories" target="_blank">GitHub</a>
+    (ab 5. September 2025, 0840)
 * Ressourcen:
   * [Bundesamt für Statistik](https://www.bfs.admin.ch)
   * [Statistik Kanton Zürich](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html)
