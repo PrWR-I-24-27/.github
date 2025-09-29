@@ -92,6 +92,8 @@ TBD
 
 ## Erreichbarkeiten
 
+Sie erreichen mich via GitHub Issue. Das Issue ist mir zuzuweisen.
+
 # Projektauftrag Nr. 1
 
 ## Orientierung
