@@ -8,6 +8,12 @@ Notebook als Grundlage für eine Onlinepublikation zu verwenden.
 
 ## Absicht
 
+Ich will, dass Sie in Gruppen einen Text im Sinne des 
+<a href="https://de.wikipedia.org/wiki/Datenjournalismus" target="_blank">
+Data Driven Journalism
+</a>
+Verfassen und diesen mit einem geeigneten Framework publizieren.
+
 ## Auftrag
 
 ## Besondere Anordnungen
