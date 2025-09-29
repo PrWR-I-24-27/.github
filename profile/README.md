@@ -2,6 +2,10 @@
 
 ## Orientierung
 
+Mit dem Projektauftrag Nr. 1 haben Sie das Format Jupyter Notebook
+kennengelernt. Im Projektauftrag Nr. 2 geht es nun darum, ein Jupyter
+Notebook als Grundlage für eine Onlinepublikation zu verwenden.
+
 ## Absicht
 
 ## Auftrag
