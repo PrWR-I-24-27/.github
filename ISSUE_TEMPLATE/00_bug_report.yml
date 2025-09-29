@@ -1,0 +1,46 @@
+name: Bug Report
+description: Melde einen Fehler in diesem Projekt.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke, dass du einen Bug meldest!
+  - type: input
+    id: contact
+    attributes:
+      label: Kontakt
+      description: Wie können wir dich bei Rückfragen erreichen?
+      placeholder: z.B. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Was ist passiert?
+      description: Was ist das Problem? Was hast du erwartet?
+      placeholder: Beschreibe das Problem...
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Welche Version verwendest du?
+      options:
+        - 1.0.2 (Stable)
+        - 1.0.3 (Edge)
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: Mit dem Absenden stimmst du dem Code of Conduct zu.
+      options:
+        - label: Ich stimme dem Code of Conduct zu
+          required: true
