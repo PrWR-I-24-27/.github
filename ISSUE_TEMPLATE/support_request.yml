@@ -1,0 +1,28 @@
+name: Support Request
+description: Formulieren Sie eine kurze Problembeschreibung.
+title: ": "
+labels: support
+assignees: 'Jacques-Mock-Schindler'
+body:
+  - type: markdown
+    attributes:
+      value: "Vielen Dank, dass Sie Ihre Frage via Issue einreichen."
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: "Ausführliche Problembeschreibung"
+      description: "Beschreiben Sie Ihr Problem ausführlich. Fügen Sie gegebenenfalls Screenshots ein."
+      placeholder: "Ich brauche Unterstützung bei..."
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priorität"
+      description: "Wie Schwerwiegend ist das Problem?"
+      options:
+        - "Das Problem verhindert das Weiterarbeiten"
+        - "Die Weiterarbeit ist trotz Problem möglich"
+        - "Es wäre nett, wenn das Problem gelöst werden könnte"
+    validations:
+      required: true
