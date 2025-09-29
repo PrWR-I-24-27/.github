@@ -16,6 +16,9 @@ Verfassen und diesen mit einem geeigneten Framework publizieren.
 
 ## Auftrag
 
+Verfassen Sie eine datengestützte Reportage zu einem aktuellen
+wirtschaftlichen Thema.
+
 ## Besondere Anordnungen
 
 ## Erreichbarkeiten
