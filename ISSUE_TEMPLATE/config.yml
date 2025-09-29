@@ -1,0 +1,16 @@
+# Diese Konfigurationsdatei wird im Verzeichnis .github/ISSUE_TEMPLATE/ abgelegt.
+
+# Setzen Sie 'blank_issues_enabled' auf 'false', um zu verhindern,
+# dass Benutzer leere Issues ohne eine Vorlage erstellen können.
+# Sie müssen dann eine Ihrer Vorlagen (Support Request oder Ergänzungsvorschlag) auswählen.
+blank_issues_enabled: false
+
+# Optional können Sie hier auch Kontaktlinks hinzufügen, falls Benutzer
+# an anderer Stelle Hilfe suchen sollen, bevor sie ein Issue erstellen.
+# contact_links:
+#   - name: 💬 Community Diskussionen
+#     url: https://github.com/IHRE_ORGANISATION/IHR_PROJEKT/discussions
+#     about: Für Fragen und Diskussionen, die keine Bug-Reports oder Feature-Requests sind.
+#   - name: 📖 Dokumentation
+#     url: https://link-zu-ihrer-doku.com
+#     about: Bitte werfen Sie zuerst einen Blick in unsere Dokumentation.
