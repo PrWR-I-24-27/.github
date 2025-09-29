@@ -23,8 +23,20 @@ wirtschaftlichen Thema.
 
 ### Termine
 
+* Abgabe Themenbewerbung: 24. Oktober 2025
 * Abgabe Disposition: 30. Oktober 2025
 * Abgabe Reportage: 23. Dezember 2025
+
+### Arbeitsprozess
+
+Der gesamte Arbeitsprozess richtet sich nach den verschiedenen *Best
+Practices* Beschreibungen von GitHub.  
+Ein besonderer Hinweis gilt für die Disposition. Diese ist der
+*laufende* Arbeitsplan. Das bedeutet, dass sie immer wieder an die sich
+ändernden Gegebenheiten angepasst werden muss. Dies gilt insbesondere
+für den Zeitpunkt nach der offiziellen Abgabe vom 30. Oktober 25. Die
+Disposition ist denn auch *das einzige Dokument*, dass von Ihnen direkt
+in den Branch `main` gemergt werden darf.
 
 ### Technische Vorgaben
 
@@ -39,10 +51,12 @@ wirtschaftlichen Thema.
   beschreiben. 
 * Die Texte und Grafiken sind in einem `dev` Branch bzw. allfälligen
   Unterbranches zu `dev` zu erstellen.
-* Die Disposition ist im README.md des jeweiligen Ripositorys zu
+* Die Disposition ist im README.md des jeweiligen Repositorys zu
   erstellen.
 * Der Code für die Datenaufbereitung und das erstellen der Grafiken ist
   in der Publikation auszublenden.
+* Sämtliche Abgaben haben als Pull Request mit mir als Assignee zu
+  erfolgen. 
 
 ### Themen
 
@@ -56,6 +70,7 @@ wirtschaftlichen Thema.
 * Der Zusammenhang zwischen der Umstellung auf biologische
   Landwirtschaft und der gemessenen Wasserqualität in Bächen und Flüssen
   im Zürcher Oberland 
+* Jocker (frei gewähltes Thema)
 
 ### Gruppeneinteilung
 
