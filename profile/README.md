@@ -21,6 +21,60 @@ wirtschaftlichen Thema.
 
 ## Besondere Anordnungen
 
+### Termine
+
+* Abgabe Disposition: 30. Oktober 2025
+* Abgabe Reportage: 23. Dezember 2025
+
+### Technische Vorgaben
+
+* Die Abgaben haben als Pull Request auf Main zu erfolgen.
+* Die Reportage hat aus einer Kombination von Text und Grafik(en) zu
+  bestehen.
+* Für die Aufbereitung der Daten ist `pandas` zu verwenden.
+* Für die Erstellung der Grafiken ist `matplotlib`, `seaborn`, `plotly`
+  oder `bokeh` zu verwenden.
+* Die Verwendung weiterer Python Libraries ist ausdrücklich erlaubt.
+* Die Verwendung von generativer KI ist in einem Abschnitt *Methoden* zu
+  beschreiben. 
+* Die Texte und Grafiken sind in einem `dev` Branch bzw. allfälligen
+  Unterbranches zu `dev` zu erstellen.
+* Die Disposition ist im README.md des jeweiligen Ripositorys zu
+  erstellen.
+* Der Code für die Datenaufbereitung und das erstellen der Grafiken ist
+  in der Publikation auszublenden.
+
+### Themen
+
+* Die Auswirkung der demographischen Entwicklung auf die AHV
+* Die Auswirkung des Fahrplans des öffentlichen Verkehrs auf die Kosten
+  fürs Wohnen
+* Die Auswirkung des Ausbaus des S-Bahn-Netzes im Kanton Zürich auf das
+  Bevölkerungswachstum in den angeschlossenen Gemeinden 
+* Der Zusammenhang zwischen der Beleuchtungsdichte an öffentlichen
+  Plätzen und der Anzahl gemeldeter Bagatelldelikte in der Stadt Zürich 
+* Der Zusammenhang zwischen der Umstellung auf biologische
+  Landwirtschaft und der gemessenen Wasserqualität in Bächen und Flüssen
+  im Zürcher Oberland 
+
+### Gruppeneinteilung
+
+TBD
+
+### Beurteilungskriterien
+
+* Datenbasierung  
+  Beruht die Story tatsächlich auf einer belastbaren Datengrundlage?
+* Datendarstellung  
+  Wurde eine passende Darstellungsform für die Datengrundlage gewählt?
+* Text  
+  Ist der Text sprachlich korrekt und schlüssig formuliert?
+* GitHub-Workflow
+  Wurden die Vorgaben eingehalten?  
+  Entsprechen die Commits den git Best Practices?
+* Code  
+  Ist der Code nachvollziehbar aufgebaut (inklusive Kommentare)
+
 ## Erreichbarkeiten
 
 # Projektauftrag Nr. 1
