@@ -1,40 +1,41 @@
----
-name: 🐞 Bug
-about: File a bug/issue
-title: '[BUG] <title>'
-labels: Bug, Needs Triage
-assignees: ''
-
----
-
-<!--
-Note: Please search to see if an issue already exists for the bug you encountered.
--->
-
-### Current Behavior:
-<!-- A concise description of what you're experiencing. -->
-
-### Expected Behavior:
-<!-- A concise description of what you expected to happen. -->
-
-### Steps To Reproduce:
-<!--
-Example: steps to reproduce the behavior:
-1. In this environment...
-1. With this config...
-1. Run '...'
-1. See error...
--->
-
-### Environment:
-<!--
-Example:
-- OS: Ubuntu 20.04
-- Node: 13.14.0
-- npm: 7.6.3
--->
-
-### Anything else:
-<!--
-Links? References? Anything that will give us more context about the issue that you are encountering!
--->
+name: Feature Request
+description: Schlage eine Idee für dieses Projekt vor.
+title: ": "
+labels: enhancement
+body:
+  - type: markdown
+    attributes:
+      value: "Vielen Dank, dass du dir die Zeit nimmst, diesen Feature-Request auszufüllen!"
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: "Welches Problem soll mit diesem Feature gelöst werden?"
+      description: "Beschreibe das Problem oder den Anwendungsfall. Warum ist dieses Feature notwendig?"
+      placeholder: "Als Benutzer möchte ich..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution-description
+    attributes:
+      label: "Wie stellst du dir die Lösung vor?"
+      description: "Beschreibe, wie das Feature deiner Meinung nach funktionieren sollte."
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priorität"
+      description: "Wie wichtig ist dieses Feature für dich?"
+      options:
+        - "Hoch"
+        - "Mittel"
+        - "Niedrig"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "Bestätigung"
+      options:
+        - label: "Ich habe nach ähnlichen, bereits existierenden Feature-Requests gesucht."
+          required: true
