@@ -1,0 +1,36 @@
+name: Ergänzungsvorschlag
+description: Schlagen Sie eine neue Funktion oder Verbesserung für das Projekt vor.
+title: "[VORSCHLAG]: "
+labels: enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vielen Dank, dass Sie sich die Zeit nehmen, diesen Vorschlag zu machen!
+  - type: textarea
+    id: problem-summary
+    attributes:
+      label: "Zusammenfassung des Problems"
+      description: "Gibt es ein aktuelles Problem, das Ihr Vorschlag löst? Beschreiben Sie es klar und deutlich."
+      placeholder: "Beispiel: Es ist derzeit schwierig für Benutzer, [Aktion] durchzuführen, weil..."
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: "Vorgeschlagene Lösung"
+      description: "Beschreiben Sie die Funktion oder Ergänzung, die Sie sich vorstellen."
+      placeholder: "Beispiel: Ich schlage vor, einen neuen Button hinzuzufügen, der..."
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternativen"
+      description: "Welche anderen Lösungsansätze oder Funktionen haben Sie in Betracht gezogen?"
+      placeholder: "Beispiel: Eine Alternative wäre, den bestehenden Prozess zu ändern, indem..."
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: "Zusätzlicher Kontext"
+      description: "Fügen Sie hier weitere Details, Mockups oder Screenshots hinzu, die helfen könnten, Ihren Vorschlag zu verstehen."
