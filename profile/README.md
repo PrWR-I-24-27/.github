@@ -60,7 +60,6 @@ in den Branch `main` gemergt werden darf.
 
 ### Themen
 
-* Die Auswirkung der demographischen Entwicklung auf die AHV
 * Die Auswirkung des Fahrplans des öffentlichen Verkehrs auf die Kosten
   fürs Wohnen
 
@@ -75,10 +74,9 @@ in den Branch `main` gemergt werden darf.
   Bearbeite von André, Jonas und Matteo sowie
 
   Tymur, Laurens und Josua
-* Der Zusammenhang zwischen der Umstellung auf biologische
-  Landwirtschaft und der gemessenen Wasserqualität in Bächen und Flüssen
-  im Zürcher Oberland 
-* Jocker (frei gewähltes Thema)
+* Der Zusammenhang zwischen Bildungsausgaben pro Kanton und Erfolgsquoten an (Matura) Prüfungen
+
+  Bearbeitet von Guy, Sebastian und Silvan
 
 ### Beurteilungskriterien
 
