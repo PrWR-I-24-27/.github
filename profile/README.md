@@ -63,18 +63,22 @@ in den Branch `main` gemergt werden darf.
 * Die Auswirkung der demographischen Entwicklung auf die AHV
 * Die Auswirkung des Fahrplans des öffentlichen Verkehrs auf die Kosten
   fürs Wohnen
+
+  Bearbeitet von Jakub, Luca und Lucien
 * Die Auswirkung des Ausbaus des S-Bahn-Netzes im Kanton Zürich auf das
-  Bevölkerungswachstum in den angeschlossenen Gemeinden 
+  Bevölkerungswachstum in den angeschlossenen Gemeinden
+
+  Bearbeitet von Lenas, Laurens Sp. und Mathis
 * Der Zusammenhang zwischen der Beleuchtungsdichte an öffentlichen
-  Plätzen und der Anzahl gemeldeter Bagatelldelikte in der Stadt Zürich 
+  Plätzen und der Anzahl gemeldeter Bagatelldelikte in der Stadt Zürich
+
+  Bearbeite von André, Jonas und Matteo sowie
+
+  Tymur, Laurens und Josua
 * Der Zusammenhang zwischen der Umstellung auf biologische
   Landwirtschaft und der gemessenen Wasserqualität in Bächen und Flüssen
   im Zürcher Oberland 
 * Jocker (frei gewähltes Thema)
-
-### Gruppeneinteilung
-
-TBD
 
 ### Beurteilungskriterien
 
