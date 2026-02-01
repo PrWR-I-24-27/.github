@@ -17,6 +17,12 @@ NetworkX
 </a>
 verwenden.
 
+## Auftrag
+
+Erstellen Sie für Ihre Risikoanalyse ein interaktives Dashboard.
+
+
+
 # Projektauftrag Nr. 2
 
 ## Orientierung
