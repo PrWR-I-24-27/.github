@@ -1,3 +1,13 @@
+# Projektauftrag Nr. 3 (IDAF)
+
+## Orientierung
+
+Mit dem Projektauftrag Nr. 3 sollen Sie Erfahrungen mit interaktiven
+Datenvisualisierungen sammeln. Gleichzeitig bietet der Projektauftrag
+Nr. 3 die Gelegenheit, sich vertieft mit Risikoanalysen
+auseinanderzusetzen.  
+Der Projektauftrag Nr. 3 wird als IDAF beurteilt.
+
 # Projektauftrag Nr. 2
 
 ## Orientierung
