@@ -8,6 +8,15 @@ Nr. 3 die Gelegenheit, sich vertieft mit Risikoanalysen
 auseinanderzusetzen.  
 Der Projektauftrag Nr. 3 wird als IDAF beurteilt.
 
+## Absicht
+
+Ich will, dass Sie eine Risiko-Analyse in Form einer Netzwerk-Analyse
+vornehmen. Dazu sollen Sie die Python-Library 
+<a href="https://networkx.org/en/" target="_blank">
+NetworkX
+</a>
+verwenden.
+
 # Projektauftrag Nr. 2
 
 ## Orientierung
