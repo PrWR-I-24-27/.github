@@ -1,25 +1,72 @@
-# Projektauftrag Nr. 3 (IDAF)
+# Projektauftrag Nr. 3: Interaktive Risiko-Netzwerkanalyse (IDAF)
 
-## Orientierung
+## 1. Orientierung
 
-Mit dem Projektauftrag Nr. 3 sollen Sie Erfahrungen mit interaktiven
-Datenvisualisierungen sammeln. Gleichzeitig bietet der Projektauftrag
-Nr. 3 die Gelegenheit, sich vertieft mit Risikoanalysen
-auseinanderzusetzen.  
-Der Projektauftrag Nr. 3 wird als IDAF beurteilt.
+Im modernen Risikomanagement sind Gefahren systemisch vernetzt. Der
+Ausfall einer Komponente kann kaskadenartige Effekte im gesamten
+Netzwerk auslösen. Dieser Projektauftrag verknüpft die Informatik
+(Datenvisualisierung mit Python) mit methodischer Risikoanalyse. Der
+Fokus liegt auf technischer Exzellenz, Code-Effizienz und der
+Nutzerführung (UX). 
 
-## Absicht
+## 2. Absicht
 
-Ich will, dass Sie eine Risiko-Analyse in Form einer Netzwerk-Analyse
-vornehmen. Dazu sollen Sie die Python-Library 
-<a href="https://networkx.org/en/" target="_blank">
-NetworkX
-</a>
-verwenden.
+Das Ziel ist die Identifikation und Visualisierung von Risikostrukturen
+mittels **Graph-Theorie**. Durch den Einsatz von `NetworkX` und `Quarto`
+transformieren Sie abstrakte Daten in ein intuitiv bedienbares
+Dashboard. Sie beweisen dabei, dass Sie komplexe technische
+Anforderungen in ein sauberes, wartbares und benutzerfreundliches
+Produkt überführen können. 
 
-## Auftrag
+## 3. Auftrag
 
-Erstellen Sie für Ihre Risikoanalyse ein interaktives Dashboard.
+Erstellen Sie als Team ein **interaktives Quarto-Dashboard**, das eine
+Risiko-Netzwerkanalyse abbildet. Das Endprodukt muss technisch stabil
+(DRY-Prinzip), sprachlich einwandfrei und nach modernen UX-Standards
+gestaltet sein. 
+
+## 4. Besondere Anordnungen
+
+### Zeitplan & Meilensteine
+
+| Phase | Meilenstein / Deliverable | Termin |
+| --- | --- | --- |
+| **Konzeption** | Disposition (via README) | **27.02.2026** |
+| **Finalisierung** | Abgabe Dashboard (fertig gerendert) | **10.04.2026** |
+
+### Technische Vorgaben
+
+* **Stack**: Python (`NetworkX`), Quarto-Dashboard-Layout, GitHub.
+* **Programmiergrundsatz**: Konsequente Anwendung von **DRY (Don't
+  Repeat Yourself)**. Redundanter Code führt zu Punktabzug.
+* **Scope**: Mindestens **10 Knoten** im Netzwerk.
+
+### Bewertungskriterien
+
+Die Gesamtnote setzt sich wie folgt zusammen:
+
+1. **Produkt (66%)**:
+* **Technik**: Einhaltung der DRY-Prinzipien und saubere Implementierung.
+* **UX/UI**: Klarheit der Darstellung und Qualität der Benutzerinteraktion.
+* **Sprache**: Fehlerfreie Texte (Deutsch).
+* **Inhalt**: Plausibilität der Risiko-Modellierung (keine fachliche Tiefenprüfung).
+
+
+2. **Prozess (33%)**:
+* Individuelle Bewertung gestützt auf das **git-log** (Kontinuität, Commit-Qualität).
+
+
+
+### Einschränkungen
+
+* **Wichtig**: Ohne nachvollziehbare Git-Historie wird der Prozess mit
+  einer **Note 1** beurteilt. 
+
+## 5. Erreichbarkeit
+
+* **Support**: Alle technischen und organisatorischen Anfragen erfolgen via **GitHub Issues**.
+* **Abgabeweg**: **Pull Request (PR)** auf den Main-Branch. Zuweisung des PR an den Mentor.
+* **Feedback**: Erhalten Sie direkt als Kommentar im Merge Commit nach Projektabschluss.
 
 
 
